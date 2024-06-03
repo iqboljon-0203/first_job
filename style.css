@@ -1,0 +1,97 @@
+.footer {
+    padding: 50px 10px;
+    text-align: center;
+}
+
+.coll {
+    padding: 50px 0px 100px 0px;
+}
+
+.coll h1 {
+    font-size: 30px;
+    color: #263238;
+
+}
+
+.unverstets {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer_malumot1 {
+    width: 80%;
+    height: 400px;
+    background-color: #F3F3F3;
+
+    padding: 50px 0px 20px 400px;
+    align-items: center;
+    color: #98A2B3;
+}
+
+.footer_malumot {
+    display: flex;
+}
+
+.uzbek {
+    width: 20%;
+    padding: 0px 300px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+
+}
+
+.footer_joylashuv {
+    width: 100px;
+
+
+    display: flex;
+    align-items: center;
+    text-align: start;
+
+}
+
+.footer_img {
+    padding: 10px;
+}
+
+.footer_tell {
+    display: flex;
+    align-items: center;
+}
+
+
+
+.kazak {
+    width: 20%;
+    padding: 0px 300px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.footer_yakun {
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 50px 0px 10px 0px;
+}
+
+.footer_sana {
+    display: flex;
+    align-items: center;
+}
+
+.footer_sana div {
+    padding: 0px 3px;
+}
+
+.footer_tarmoq ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 20px;
+
+}
